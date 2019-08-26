@@ -10,3 +10,8 @@ The model will detect if IP Address is from China but card belongs to a USA citi
 Coolum’s in the data set have Time(time of transaction) , V1-V28 (Classified feature’s containing IP and credit card Info),
 Amount(Amount of the transaction), Class (0 – Safe Transaction , 1- fraudulent Transaction ).
 
+Mode of Metric will be Confusion Matrix and not the Accuracy of the model 
+
+Along with the Ann model we have used over sampling and under sampling Technique (SMOTE).
+
+
